@@ -1,5 +1,6 @@
 The code is modified from https://github.com/ShamithaUdupa/K-Nearest-Neighbour-in-Hadoop
 
+Iris2.txt is five times of iris dataset. 
 
 Run this code: 
     hadoop jar <jarfile> knn <HDFS testing data> <HDFS training data> <HDFS outpur folder> <number of neighbors - k> <NumReducer>
